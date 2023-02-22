@@ -1,6 +1,6 @@
 import * as coda from "@codahq/packs-sdk";
 export const pack = coda.newPack();
-import { formatRelative, subDays } from "date-fns";
+import { formatRelative } from "date-fns";
 
 pack.addFormula({
   name: "HumanDate",
