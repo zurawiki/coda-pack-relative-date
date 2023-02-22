@@ -2,7 +2,8 @@
   "name": "coda-pack-relative-date",
   "packageManager": "yarn@3.2.3",
   "dependencies": {
-    "@codahq/packs-sdk": "^1.2.3"
+    "@codahq/packs-sdk": "^1.2.3",
+    "date-fns": "^2.29.3"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
